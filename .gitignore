@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+checks/
+*.yog_ru_pending
+*.yog_ru_rollback
